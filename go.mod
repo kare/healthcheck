@@ -1,3 +1,3 @@
-module github.com/kare/healthcheck
+module kkn.fi/cmd/healthcheck
 
 go 1.13
