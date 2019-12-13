@@ -1,0 +1,1 @@
+# kkn.fi/cmd/healthcheck
